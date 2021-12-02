@@ -15,7 +15,7 @@
       Prodáváme po celé České republice a plánujeme i exportovat i do zahraničí.
       Povedlo se nám rekordně snížit emise v České republice na úplnou nulu !!!!!!
       Podporujeme Evropský Green Deal a sponzorujeme jejich propagaci.
-      Jsme epický kupujte naše produkty jinak budeme velice smutní :(. 
+      Jsme epický kupujte naše produkty jinak budeme velice smutný :(. 
      </p>
 
 </body>

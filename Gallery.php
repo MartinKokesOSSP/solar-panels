@@ -7,8 +7,7 @@
     <title>Galerija</title>
 </head>
 <body>
-    <h1 style="color: rgb(126, 19, 226);">Naše produkty (kvalita granátována)</h1>
-
+    <h1 style="color: rgb(126, 19, 226); font-size:xx-large; font-family: sans-serif;">Naše produkty (kvalita granátována)</h1>
     <img src="https://review.solar/wp-content/uploads/2018/10/Shattering-02-Solar-Review.jpg" width="144"   alt="panel">
     <img src="https://img1.wsimg.com/isteam/ip/6ffe2a02-ea0e-4d0a-b432-eff2ed674bf7/Burnt%20panels.jpg" width="144"  alt="panel2">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSapjBuqW4UCXKiLVK_kUFnr2SjIUhBzq8GUg&usqp=CAU" width="144"  alt="panel3">

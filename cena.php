@@ -8,21 +8,22 @@
 </head>
 <body>
 
-<table>
+<table style="border: 1px solid black">
+
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Work</th>
+    <th>Material</th>
+    <th>Panels</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>0.005 BTC</td>
+    <td>0.005 BTC</td>
+    <td>0.005 BTC</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>0.008 BTC</td>
+    <td>0.011 BTC</td>
+    <td>0.09 BTC</td>
   </tr>
 </table>
 

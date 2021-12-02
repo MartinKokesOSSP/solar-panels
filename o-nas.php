@@ -12,10 +12,10 @@
 
      <p>
       Naše firma prodává ty nejlepší solární panely na světě.
-      Prodáváme po celé České republice a plánujeme i exportovat i do zahraničí.
+      Prodáváme po celé České republice a plánujeme exportovat i do zahraničí.
       Povedlo se nám rekordně snížit emise v České republice na úplnou nulu !!!!!!
-      Podporujeme Evropský Green Deal a sponzorujeme jejich propagaci.
-      Jsme epický kupujte naše produkty jinak budeme velice smutný :(. 
+      Podporujeme Evropský Green Deal.
+      Jsme epický, kupujte naše produkty, budeme velice smutní když to neuděláte :(. 
      </p>
 
 </body>
